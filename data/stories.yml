@@ -1,0 +1,313 @@
+version: "3.1"
+
+stories:
+- story: hi
+  steps:
+  - intent: hi
+  - action: utter_hi
+
+- story: bay
+  steps:
+  - intent: bay
+  - action: utter_bay
+
+- story: goodmorning
+  steps:
+  - intent: goodmorning
+  - action: utter_goodmorning
+
+- story: haw_are_you
+  steps:
+  - intent: haw_are_you
+  - action: utter_haw_are_you
+
+- story: whatsapp
+  steps:
+  - intent: whatsapp
+  - action: utter_whatsapp
+
+- story: khaktosaret
+  steps:
+  - intent: khaktosaret
+  - action: utter_khaktosaret
+
+- story: gomsho
+  steps:
+  - intent: gomsho
+  - action: utter_gomsho
+
+- story: khafesho
+  steps:
+  - intent: khafesho
+  - action: utter_khafesho
+
+- story: love
+  steps:
+  - intent: love
+  - action: utter_love
+
+- story: betarbiat
+  steps:
+  - intent: betarbiat
+  - action: utter_betarbiat
+
+- story: zahr
+  steps:
+  - intent: zahr
+  - action: utter_zahr
+
+- story: no
+  steps:
+  - intent: no
+  - action: utter_no
+
+- story: eted
+  steps:
+  - intent: eted
+  - action: utter_eted
+
+- story: sheet
+  steps:
+  - intent: sheet
+  - action: utter_sheet
+
+- story: like_me
+  steps:
+  - intent: like_me
+  - action: utter_like_me
+
+- story: merc
+  steps:
+  - intent: merc
+  - action: utter_merc
+
+- story: miss
+  steps:
+  - intent: miss
+  - action: utter_miss
+
+- story: waw
+  steps:
+  - intent: waw
+  - action: utter_waw
+
+- story: spiet
+  steps:
+  - intent: spiet
+  - action: utter_spiet
+
+- story: mother_fuck
+  steps:
+  - intent: mother_fuck
+  - action: utter_mother_fuck
+
+- story: oooof
+  steps:
+  - intent: oooof
+  - action: utter_oooof
+
+- story: i_hite_you
+  steps:
+  - intent: i_hite_you
+  - action: utter_i_hite_you
+
+- story: addvers
+  steps:
+  - intent: addvers
+  - action: utter_addvers
+
+- story: not_buti
+  steps:
+  - intent: not_buti
+  - action: utter_not_buti
+
+- story: buti
+  steps:
+  - intent: buti
+  - action: utter_buti
+
+- story: very_nice
+  steps:
+  - intent: very_nice
+  - action: utter_very_nice
+
+- story: go
+  steps:
+  - intent: go
+  - action: utter_go
+
+- story: quiet
+  steps:
+  - intent: quiet
+  - action: utter_quiet
+
+- story: his
+  steps:
+  - intent: his
+  - action: utter_his
+
+- story: kiss
+  steps:
+  - intent: kiss
+  - action: utter_kiss
+
+- story: lovly
+  steps:
+  - intent: lovly
+  - action: utter_lovly
+
+- story: orjins
+  steps:
+  - intent: orjins
+  - action: utter_orjins
+
+- story: war
+  steps:
+  - intent: war
+  - action: utter_war
+
+- story: danger
+  steps:
+  - intent: danger
+  - action: utter_danger
+
+- story: howiscreator
+  steps:
+  - intent: howiscreator
+  - action: utter_howiscreator
+
+- story: icom
+  steps:
+  - intent: icom
+  - action: utter_icom
+
+- story: iwanted
+  steps:
+  - intent: iwanted
+  - action: utter_iwanted
+
+- story: imsadbetch
+  steps:
+  - intent: imsadbetch
+  - action: utter_imsadbetch
+
+- story: areyoulo
+  steps:
+  - intent: areyoulo
+  - action: utter_areyoulo
+
+- story: left
+  steps:
+  - intent: left
+  - action: utter_left
+
+- story: marreme
+  steps:
+  - intent: marreme
+  - action: utter_marreme
+
+- story: oskool
+  steps:
+  - intent: oskool
+  - action: utter_oskool
+
+- story: havaal
+  steps:
+  - intent: havaal
+  - action: utter_havaal
+
+- story: khaaaar
+  steps:
+  - intent: khaaaar
+  - action: utter_khaaaar
+
+- story: gav
+  steps:
+  - intent: gav
+  - action: utter_gav
+
+- story: koft
+  steps:
+  - intent: koft
+  - action: utter_koft
+
+- story: im_good
+  steps:
+  - intent: im_good
+  - action: utter_im_good
+
+- story: drags
+  steps:
+  - intent: drags
+  - action: utter_drags
+
+- story: zesht
+  steps:
+  - intent: zesht
+  - action: utter_zesht
+
+- story: im_sad
+  steps:
+  - intent: im_sad
+  - action: utter_im_sad
+
+- story: dieforyoy
+  steps:
+  - intent: dieforyoy
+  - action: utter_dieforyoy
+
+- story: comtopv
+  steps:
+  - intent: comtopv
+  - action: utter_comtopv
+
+- story: whatyousay
+  steps:
+  - intent: whatyousay
+  - action: utter_whatyousay
+
+- story: ineedtites
+  steps:
+  - intent: ineedtites
+  - action: utter_ineedtites
+
+- story: gotoheal
+  steps:
+  - intent: gotoheal
+  - action: utter_gotoheal
+
+- story: gozzo
+  steps:
+  - intent: gozzo
+  - action: utter_gozzo
+
+- story: hoselatonadaram
+  steps:
+  - intent: hoselatonadaram
+  - action: utter_hoselatonadaram
+
+- story: dontsend
+  steps:
+  - intent: dontsend
+  - action: utter_dontsend
+
+- story: dardbedarmon
+  steps:
+  - intent: dardbedarmon
+  - action: utter_dardbedarmon
+
+- story: itsyou
+  steps:
+  - intent: itsyou
+  - action: utter_itsyou
+
+- story: rootcerasham
+  steps:
+  - intent: rootcerasham
+  - action: utter_rootcerasham
+
+- story: changizoff
+  steps:
+  - intent: changizoff
+  - action: utter_changizoff
+

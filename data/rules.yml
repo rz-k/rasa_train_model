@@ -1,0 +1,319 @@
+version: "3.1"
+
+rules:
+  - rule: Say hi
+    steps:
+    - intent: hi
+    - action: utter_hi
+
+  - rule: Say bay
+    steps:
+    - intent: bay
+    - action: utter_bay
+
+  - rule: Say goodmorning
+    steps:
+    - intent: goodmorning
+    - action: utter_goodmorning
+
+  - rule: Say haw_are_you
+    steps:
+    - intent: haw_are_you
+    - action: utter_haw_are_you
+
+  - rule: Say whatsapp
+    steps:
+    - intent: whatsapp
+    - action: utter_whatsapp
+
+  - rule: Say khaktosaret
+    steps:
+    - intent: khaktosaret
+    - action: utter_khaktosaret
+
+  - rule: Say gomsho
+    steps:
+    - intent: gomsho
+    - action: utter_gomsho
+
+  - rule: Say khafesho
+    steps:
+    - intent: khafesho
+    - action: utter_khafesho
+
+  - rule: Say love
+    steps:
+    - intent: love
+    - action: utter_love
+
+  - rule: Say betarbiat
+    steps:
+    - intent: betarbiat
+    - action: utter_betarbiat
+
+  - rule: Say zahr
+    steps:
+    - intent: zahr
+    - action: utter_zahr
+
+  - rule: Say no
+    steps:
+    - intent: no
+    - action: utter_no
+
+  - rule: Say eted
+    steps:
+    - intent: eted
+    - action: utter_eted
+
+  - rule: Say sheet
+    steps:
+    - intent: sheet
+    - action: utter_sheet
+
+  - rule: Say like_me
+    steps:
+    - intent: like_me
+    - action: utter_like_me
+
+  - rule: Say merc
+    steps:
+    - intent: merc
+    - action: utter_merc
+
+  - rule: Say miss
+    steps:
+    - intent: miss
+    - action: utter_miss
+
+  - rule: Say waw
+    steps:
+    - intent: waw
+    - action: utter_waw
+
+  - rule: Say spiet
+    steps:
+    - intent: spiet
+    - action: utter_spiet
+
+  - rule: Say mother_fuck
+    steps:
+    - intent: mother_fuck
+    - action: utter_mother_fuck
+
+  - rule: Say oooof
+    steps:
+    - intent: oooof
+    - action: utter_oooof
+
+  - rule: Say i_hite_you
+    steps:
+    - intent: i_hite_you
+    - action: utter_i_hite_you
+
+  - rule: Say addvers
+    steps:
+    - intent: addvers
+    - action: utter_addvers
+
+  - rule: Say not_buti
+    steps:
+    - intent: not_buti
+    - action: utter_not_buti
+
+  - rule: Say buti
+    steps:
+    - intent: buti
+    - action: utter_buti
+
+  - rule: Say very_nice
+    steps:
+    - intent: very_nice
+    - action: utter_very_nice
+
+  - rule: Say go
+    steps:
+    - intent: go
+    - action: utter_go
+
+  - rule: Say quiet
+    steps:
+    - intent: quiet
+    - action: utter_quiet
+
+  - rule: Say his
+    steps:
+    - intent: his
+    - action: utter_his
+
+  - rule: Say kiss
+    steps:
+    - intent: kiss
+    - action: utter_kiss
+
+  - rule: Say lovly
+    steps:
+    - intent: lovly
+    - action: utter_lovly
+
+  - rule: Say orjins
+    steps:
+    - intent: orjins
+    - action: utter_orjins
+
+  - rule: Say war
+    steps:
+    - intent: war
+    - action: utter_war
+
+  - rule: Say danger
+    steps:
+    - intent: danger
+    - action: utter_danger
+
+  - rule: Say howiscreator
+    steps:
+    - intent: howiscreator
+    - action: utter_howiscreator
+
+  - rule: Say icom
+    steps:
+    - intent: icom
+    - action: utter_icom
+
+  - rule: Say iwanted
+    steps:
+    - intent: iwanted
+    - action: utter_iwanted
+
+  - rule: Say imsadbetch
+    steps:
+    - intent: imsadbetch
+    - action: utter_imsadbetch
+
+  - rule: Say areyoulo
+    steps:
+    - intent: areyoulo
+    - action: utter_areyoulo
+
+  - rule: Say left
+    steps:
+    - intent: left
+    - action: utter_left
+
+  - rule: Say marreme
+    steps:
+    - intent: marreme
+    - action: utter_marreme
+
+  - rule: Say oskool
+    steps:
+    - intent: oskool
+    - action: utter_oskool
+
+  - rule: Say havaal
+    steps:
+    - intent: havaal
+    - action: utter_havaal
+
+  - rule: Say khaaaar
+    steps:
+    - intent: khaaaar
+    - action: utter_khaaaar
+
+  - rule: Say gav
+    steps:
+    - intent: gav
+    - action: utter_gav
+
+  - rule: Say koft
+    steps:
+    - intent: koft
+    - action: utter_koft
+
+  - rule: Say im_good
+    steps:
+    - intent: im_good
+    - action: utter_im_good
+
+  - rule: Say drags
+    steps:
+    - intent: drags
+    - action: utter_drags
+
+  - rule: Say zesht
+    steps:
+    - intent: zesht
+    - action: utter_zesht
+
+  - rule: Say im_sad
+    steps:
+    - intent: im_sad
+    - action: utter_im_sad
+
+  - rule: Say dieforyoy
+    steps:
+    - intent: dieforyoy
+    - action: utter_dieforyoy
+
+  - rule: Say comtopv
+    steps:
+    - intent: comtopv
+    - action: utter_comtopv
+
+  - rule: Say whatyousay
+    steps:
+    - intent: whatyousay
+    - action: utter_whatyousay
+
+  - rule: Say ineedtites
+    steps:
+    - intent: ineedtites
+    - action: utter_ineedtites
+
+  - rule: Say gotoheal
+    steps:
+    - intent: gotoheal
+    - action: utter_gotoheal
+
+  - rule: Say gozzo
+    steps:
+    - intent: gozzo
+    - action: utter_gozzo
+
+  - rule: Say hoselatonadaram
+    steps:
+    - intent: hoselatonadaram
+    - action: utter_hoselatonadaram
+
+  - rule: Say dontsend
+    steps:
+    - intent: dontsend
+    - action: utter_dontsend
+
+  - rule: Say dardbedarmon
+    steps:
+    - intent: dardbedarmon
+    - action: utter_dardbedarmon
+
+  - rule: Say itsyou
+    steps:
+    - intent: itsyou
+    - action: utter_itsyou
+
+  - rule: Say rootcerasham
+    steps:
+    - intent: rootcerasham
+    - action: utter_rootcerasham
+
+  - rule: Say changizoff
+    steps:
+    - intent: changizoff
+    - action: utter_changizoff
+
+        
+  - rule: Activate the fallback action when the user message is not understood
+    steps:
+      - intent: nlu_fallback
+      - action: action_default_fallback
+        
